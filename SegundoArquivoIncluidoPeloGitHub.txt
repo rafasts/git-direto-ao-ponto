@@ -1,1 +1,7 @@
-Meu segundo arquivo
+Meu segundo arquivo:
+
+gitk: nao pega as alteracoes/inclusoes no repositorio remoto.
+git fetch: baixa as alteracoes do repositorio remoto sem alterar a branch local.
+gitk: nao pega as alteracoes/inclusoes no repositorio remoto.
+gitk --all: mostra que a branch remota ou origin/main esta a frente da brnch local
+git merge main origin/main: faz o merge atualizando a branch local.
