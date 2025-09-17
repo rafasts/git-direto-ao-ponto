@@ -10,3 +10,5 @@ Terceiro Arquivo - Incluido Pelo GitHub
 - resolucao conflito.
 
 - alteracao local aqui
+- alteracao remota aqui
+s
