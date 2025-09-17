@@ -2,5 +2,7 @@ Testes apos incluir o meu primeiro arquivo:
 
 - git status
 - git add .
+- git add PrimeiroArquivo.txt
 - gitk
-- git commmit
+- git commmit -m "meu primeiro commit - local"
+
