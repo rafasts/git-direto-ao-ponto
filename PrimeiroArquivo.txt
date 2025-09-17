@@ -1,0 +1,6 @@
+Testes apos incluir o meu primeiro arquivo:
+
+- git status
+- git add .
+- gitk
+- git commmit
