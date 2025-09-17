@@ -1,8 +1,10 @@
 Testes apos incluir o meu primeiro arquivo:
 
-- git status
-- git add .
-- git add PrimeiroArquivo.txt
-- gitk
-- git commmit -m "meu primeiro commit - local"
+- git status: mostra o status atual da branch.
+- git add . : adiciona todas as alteracoes da work area na stage area.
+- git add PrimeiroArquivo.txt: adiciona o arquivo ou as alteracoes do arquivo da work area na stage area.
+- gitk: exibe em modo grafico o status atual da branch.
+- git commmit -m "meu primeiro commit - local": fecha e nomeia um pacote de alterações ou cria um marco no repositorio.
+- git push: envia os commits ou alteracoes locais para o repositorio remoto.
 
+Testes apos fazer um commit diretamente no github:
