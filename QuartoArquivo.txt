@@ -1,0 +1,10 @@
+Terceiro Arquivo - Incluido Pelo GitHub
+
+- git status: mostra o status atual da branch.
+- git add . : adiciona todas as alteracoes da work area na stage area.
+- gitk: exibe em modo grafico o status atual da branch.
+- git commmit -m "meu quanto arquivo - local": fecha e nomeia um pacote de alterações ou cria um marco no repositorio.
+- git push: envia os commits ou alteracoes locais para o repositorio remoto.
+
+- alteracao remota (github) e alteracao (local)
+- resolucao conflito.

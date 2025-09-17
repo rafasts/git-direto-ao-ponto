@@ -1,0 +1,6 @@
+Quarto Arquivo - Incluido Local
+
+gitk: nao pega as alteracoes/inclusoes no repositorio remoto.
+git fetch: baixa as alteracoes do repositorio remoto sem alterar a branch local.
+gitk: nao pega as alteracoes/inclusoes no repositorio remoto.
+git pull: baixa as alteracoes do repositorio remoto alterando a branch local.
