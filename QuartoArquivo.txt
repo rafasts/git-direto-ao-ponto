@@ -8,3 +8,5 @@ Terceiro Arquivo - Incluido Pelo GitHub
 
 - alteracao remota (github) e alteracao (local)
 - resolucao conflito.
+
+- alteracao remota aqui
